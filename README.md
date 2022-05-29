@@ -42,7 +42,7 @@ request_2 = "the table";_<br/>
 _request001 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// номер запроса<br/>
 result: true &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // есть файлы соответствующие запросу на 100%<br/>
 docid: 3, rank: 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // файл №3 - 2 слова (MAX = 2)<br/>
-docid: 2, rank: 0.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp // файл №2 - 1 слово (1/MAX = 0,5)<br/>
+docid: 2, rank: 0.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; // файл №2 - 1 слово (1/MAX = 0,5)<br/>
 docid: 1, rank: 0.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // файл №1 - 1 слово (1/MAX = 0,5)_<br/>
 
 _request002<br/>
