@@ -1,5 +1,5 @@
 # Qt_search_engine
-Educational work.
+Educational work.<br/>
 Учебный проект Qt_Search_Engine
 
 Простой и удобный поисковик с графическим интерфейсом Qt.
