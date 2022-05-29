@@ -51,7 +51,7 @@ docid: 3, rank: 1<br/>
 docid: 1, rank: 0.66_<br/>
 
 ## Интерфейс
-![markdown_logo] (https://disk.yandex.ru/i/Bsugazd151mSpQ)
+![markdown_logo] (https:\\disk.yandex.ru\i\Bsugazd151mSpQ)
 1. Кнопка __GET CONFIG__ - позволяет посмотреть текущую конфигуацию приложения
 2. Кнопка __SET CONFIG__ - позволяет установить новую конфигурацию приложения
 3. Кнопка __SET REQUEST__ - очищает окно для нового поискового запроса 
