@@ -72,10 +72,10 @@ docid: 1, rank: 0.66_<br/>
 соблюдая формат, и нажать кнопку __SET CONFIG__.
 
 ### Пример конфигурации
-_name: MyProject_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // название проекта. <br/>
+_name: MyProject_ &nbsp; &nbsp; &nbsp; &nbsp; // название проекта. <br/>
 _version: 0.1_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // версия<br/>
-_max_responses: 5_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // максимальное кол-во релевантных файлов в результатах поиска<br/>
-_files:_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // список файлов, по которым происходит поиск<br/>
+_max_responses: 5_ &nbsp; &nbsp; &nbsp; &nbsp;  // максимальное кол-во релевантных файлов в результатах поиска<br/>
+_files:_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // список файлов, по которым происходит поиск<br/>
 _file002.txt_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // названия файлов<br/>
 _file003.txt<br/>
 file004.txt<br/>
