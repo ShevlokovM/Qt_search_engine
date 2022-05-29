@@ -39,11 +39,11 @@ _request_1 = "the";<br/>
 request_2 = "the table";_<br/>
 
 (код поисковика - упрощенный __JSON__, без некоторых элементов синтаксиса)<br/><br/>
-_request001          // номер запроса<br/>
-result: true         // есть файлы соответствующие запросу на 100%<br/>
-docid: 3, rank: 1    // файл №3 - 2 слова (MAX = 2)<br/>
-docid: 2, rank: 0.5  // файл №2 - 1 слово (1/MAX = 0,5)<br/>
-docid: 1, rank: 0.5  // файл №1 - 1 слово (1/MAX = 0,5)_<br/>
+_request001 &nbsp;&nbsp;&nbsp;&nbsp;         // номер запроса<br/>
+result: true &nbsp;&nbsp;&nbsp;&nbsp;       // есть файлы соответствующие запросу на 100%<br/>
+docid: 3, rank: 1 &nbsp;&nbsp;&nbsp;&nbsp;   // файл №3 - 2 слова (MAX = 2)<br/>
+docid: 2, rank: 0.5 &nbsp;&nbsp;&nbsp;&nbsp; // файл №2 - 1 слово (1/MAX = 0,5)<br/>
+docid: 1, rank: 0.5 &nbsp;&nbsp;&nbsp;&nbsp; // файл №1 - 1 слово (1/MAX = 0,5)_<br/>
 
 _request002<br/>
 result: true<br/>
@@ -72,11 +72,11 @@ docid: 1, rank: 0.66_<br/>
 соблюдая формат, и нажать кнопку __SET CONFIG__.
 
 ### Пример конфигурации
-_name: MyProject_              // название проекта. <br/>
-_version: 0.1_                 // версия<br/>
-_max_responses: 5_             // максимальное кол-во релевантных файлов в результатах поиска<br/>
-_files:_                       // список файлов, по которым происходит поиск<br/>
-_file002.txt_                  // названия файлов<br/>
+_name: MyProject_ &nbsp;&nbsp;&nbsp;&nbsp;             // название проекта. <br/>
+_version: 0.1_ &nbsp;&nbsp;&nbsp;&nbsp;                // версия<br/>
+_max_responses: 5_ &nbsp;&nbsp;&nbsp;&nbsp;            // максимальное кол-во релевантных файлов в результатах поиска<br/>
+_files:_ &nbsp;&nbsp;&nbsp;&nbsp;                      // список файлов, по которым происходит поиск<br/>
+_file002.txt_ &nbsp;&nbsp;&nbsp;&nbsp;                 // названия файлов<br/>
 _file003.txt<br/>
 file004.txt<br/>
 file005.txt<br/>
