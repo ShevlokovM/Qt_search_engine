@@ -52,7 +52,7 @@ docid: 3, rank: 1<br/>
 docid: 1, rank: 0.66_<br/>
 
 ## Интерфейс
-![markdown_logo] [https://disk.yandex.ru/i/Bsugazd151mSpQ](https://github.com/ShevlokovM/Qt_search_engine/blob/main/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA.jpg)
+![](https://github.com/ShevlokovM/Qt_search_engine/blob/main/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA.jpg)
 
 1. Кнопка __GET CONFIG__ - позволяет посмотреть текущую конфигуацию приложения
 2. Кнопка __SET CONFIG__ - позволяет установить новую конфигурацию приложения
