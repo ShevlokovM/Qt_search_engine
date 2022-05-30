@@ -1,5 +1,6 @@
 # Qt_search_engine
-Educational work. Учебный проект Qt_Search_Engine.
+Educational work 
+(Учебный проект).
 Простой и удобный поисковик с графическим интерфейсом Qt.
 
 ## Технологии    
