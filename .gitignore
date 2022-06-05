@@ -28,4 +28,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# User-specific files
+*.user
+
+# Build results
+build/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows
