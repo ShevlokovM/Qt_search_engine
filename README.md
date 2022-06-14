@@ -7,6 +7,7 @@ Educational work
 - C++
 -  Qt
 -  JSON
+-  Google Test
 -  многопоточность. 
 
 ## Назначение:
